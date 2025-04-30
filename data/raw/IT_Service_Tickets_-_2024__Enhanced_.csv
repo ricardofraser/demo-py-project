@@ -1,0 +1,301 @@
+Request Date,Status,Closure Date,Department,Request Type,Request Category,Duration (days),Satisfaction Rating
+2024-10-01,Resolved,2024-10-03,Marketing,Issue,Other,2,3.0
+2024-09-02,In Progress,,Sales,Issue,Software,238,
+2024-01-23,Resolved,2024-02-12,Sales,Service,Security,20,5.0
+2024-03-29,In Progress,,Operations,Service,Access Rights,395,
+2024-01-27,Open,,Finance,Service,Software,457,
+2024-12-17,Resolved,2025-01-16,Marketing,Service,Software,30,5.0
+2024-01-13,Resolved,2024-01-29,HR,Issue,Other,16,5.0
+2024-11-29,Resolved,2024-12-06,Marketing,Service,Software,7,5.0
+2024-05-08,Resolved,2024-05-11,Admin,Service,Other,3,3.0
+2024-01-28,Closed,2024-02-14,Finance,Issue,Other,17,3.0
+2024-07-18,In Progress,,Marketing,Issue,Other,284,
+2024-04-02,Resolved,2024-04-07,Operations,Issue,Other,5,4.0
+2024-04-18,Resolved,2024-05-18,HR,Issue,Software,30,3.0
+2024-09-16,Cancelled,,Operations,Service,Access Rights,224,
+2024-07-07,In Progress,,IT,Issue,Network,295,
+2024-03-24,Resolved,2024-04-15,Sales,Issue,Software,22,5.0
+2024-07-28,Cancelled,,HR,Issue,Network,274,
+2024-02-21,Resolved,2024-02-25,Operations,Issue,Other,4,5.0
+2024-10-07,Open,,Sales,Issue,Network,203,
+2024-12-29,In Progress,,Operations,Service,Network,120,
+2024-12-08,Resolved,2024-12-28,Sales,Issue,Hardware,20,4.0
+2024-08-09,Open,,Sales,Issue,Other,262,
+2024-08-11,Closed,2024-09-01,Admin,Issue,Hardware,21,5.0
+2024-07-02,Resolved,2024-07-05,Sales,Service,Access Rights,3,3.0
+2024-04-04,Closed,2024-04-07,Finance,Service,Security,3,4.0
+2024-10-31,Resolved,2024-11-06,Finance,Service,Software,6,4.0
+2024-07-02,Open,,IT,Service,Hardware,300,
+2024-11-09,Resolved,2024-11-26,Sales,Service,Email,17,4.0
+2024-06-07,Resolved,2024-06-10,Operations,Service,Email,3,4.0
+2024-03-14,Resolved,2024-04-13,HR,Service,Software,30,4.0
+2024-02-06,Resolved,2024-02-15,Admin,Issue,Software,9,4.0
+2024-02-07,Resolved,2024-02-25,Operations,Issue,Security,18,3.0
+2024-09-12,Closed,2024-09-26,Operations,Issue,Security,14,4.0
+2024-06-16,Closed,2024-07-14,HR,Service,Software,28,4.0
+2024-05-17,Resolved,2024-05-27,IT,Issue,Access Rights,10,5.0
+2024-06-13,Open,,Finance,Issue,Hardware,319,
+2024-06-08,Resolved,2024-07-02,IT,Service,Access Rights,24,4.0
+2024-06-30,Resolved,2024-07-26,Sales,Service,Access Rights,26,4.0
+2024-12-01,In Progress,,Admin,Issue,Security,148,
+2024-10-10,Resolved,2024-10-14,Sales,Service,Security,4,5.0
+2024-01-22,Open,,Marketing,Issue,Network,462,
+2024-09-18,Resolved,2024-10-18,Sales,Service,Network,30,3.0
+2024-09-10,Resolved,2024-10-06,IT,Service,Email,26,4.0
+2024-09-07,Resolved,2024-09-13,Admin,Issue,Other,6,3.0
+2024-02-08,Closed,2024-03-07,Finance,Issue,Security,28,3.0
+2024-01-24,Resolved,2024-02-18,Admin,Service,Email,25,5.0
+2024-06-05,Resolved,2024-07-01,Finance,Issue,Other,26,4.0
+2024-10-09,Resolved,2024-10-27,IT,Service,Hardware,18,2.0
+2024-05-11,Resolved,2024-05-24,IT,Issue,Access Rights,13,5.0
+2024-11-06,In Progress,,Finance,Service,Software,173,
+2024-11-30,Resolved,2024-12-08,Sales,Issue,Access Rights,8,4.0
+2024-02-12,Closed,2024-02-26,Finance,Issue,Security,14,2.0
+2024-04-06,Closed,2024-04-10,Marketing,Issue,Software,4,2.0
+2024-03-15,In Progress,,Sales,Issue,Hardware,409,
+2024-03-14,Closed,2024-04-07,Operations,Issue,Access Rights,24,5.0
+2024-07-27,Resolved,2024-08-10,IT,Issue,Access Rights,14,5.0
+2024-06-23,Open,,Operations,Issue,Email,309,
+2024-02-24,Resolved,2024-03-07,Sales,Service,Other,12,2.0
+2024-06-12,Resolved,2024-06-25,Finance,Issue,Network,13,3.0
+2024-03-12,Closed,2024-04-03,Sales,Issue,Network,22,3.0
+2024-04-18,Resolved,2024-05-14,HR,Service,Network,26,3.0
+2024-06-28,Resolved,2024-07-25,HR,Service,Network,27,5.0
+2024-04-07,Resolved,2024-05-02,Marketing,Service,Hardware,25,2.0
+2024-12-05,Open,,Marketing,Service,Email,144,
+2024-12-24,In Progress,,Sales,Service,Network,125,
+2024-01-30,Closed,2024-02-11,HR,Service,Network,12,5.0
+2024-06-21,Resolved,2024-06-30,Sales,Service,Email,9,2.0
+2024-11-09,Resolved,2024-11-12,Admin,Service,Security,3,4.0
+2024-11-30,Resolved,2024-12-17,Marketing,Service,Software,17,3.0
+2024-11-28,Open,,Sales,Issue,Software,151,
+2024-08-01,Cancelled,,Admin,Service,Software,270,
+2024-02-08,Resolved,2024-03-02,Finance,Service,Software,23,5.0
+2024-01-20,Closed,2024-01-25,IT,Issue,Access Rights,5,2.0
+2024-09-10,Resolved,2024-09-30,Operations,Issue,Software,20,4.0
+2024-07-28,Resolved,2024-08-23,Admin,Issue,Network,26,5.0
+2024-11-20,Resolved,2024-12-05,Operations,Service,Software,15,5.0
+2024-01-06,Resolved,2024-01-20,IT,Issue,Software,14,5.0
+2024-02-06,Resolved,2024-02-11,Operations,Issue,Hardware,5,4.0
+2024-12-25,Open,,Operations,Service,Network,124,
+2024-10-19,Open,,HR,Issue,Other,191,
+2024-11-25,Resolved,2024-11-29,Admin,Issue,Security,4,4.0
+2024-04-01,Resolved,2024-05-01,IT,Issue,Other,30,5.0
+2024-03-05,Resolved,2024-03-24,HR,Issue,Network,19,4.0
+2024-06-06,Resolved,2024-06-10,Marketing,Service,Other,4,4.0
+2024-07-07,Resolved,2024-07-15,Admin,Issue,Access Rights,8,5.0
+2024-07-05,Resolved,2024-08-04,Sales,Service,Access Rights,30,4.0
+2024-03-24,In Progress,,Sales,Service,Hardware,400,
+2024-12-01,Resolved,2024-12-02,HR,Issue,Hardware,1,3.0
+2024-06-04,Resolved,2024-06-09,Finance,Issue,Network,5,5.0
+2024-12-16,Open,,Operations,Service,Software,133,
+2024-01-23,Resolved,2024-02-02,Admin,Service,Hardware,10,5.0
+2024-03-04,Closed,2024-03-09,Marketing,Service,Network,5,3.0
+2024-05-27,Open,,Operations,Service,Hardware,336,
+2024-01-01,Resolved,2024-01-16,HR,Issue,Access Rights,15,4.0
+2024-05-31,Resolved,2024-06-14,Sales,Service,Hardware,14,2.0
+2024-04-12,Resolved,2024-05-04,HR,Issue,Access Rights,22,3.0
+2024-12-25,Resolved,2025-01-01,HR,Service,Network,7,3.0
+2024-10-31,Resolved,2024-11-11,Operations,Issue,Hardware,11,2.0
+2024-10-31,Resolved,2024-11-13,HR,Service,Email,13,4.0
+2024-06-25,Resolved,2024-07-08,Finance,Issue,Network,13,5.0
+2024-04-20,Resolved,2024-05-18,Operations,Issue,Network,28,3.0
+2024-06-13,Resolved,2024-06-17,IT,Issue,Hardware,4,4.0
+2024-09-27,In Progress,,Sales,Issue,Other,213,
+2024-10-10,Closed,2024-11-07,Operations,Service,Software,28,2.0
+2024-10-31,Resolved,2024-11-28,IT,Service,Software,28,3.0
+2024-08-03,In Progress,,Marketing,Service,Network,268,
+2024-09-14,Resolved,2024-09-26,Admin,Service,Other,12,4.0
+2024-10-06,Resolved,2024-10-10,HR,Service,Email,4,2.0
+2024-07-08,In Progress,,Admin,Service,Other,294,
+2024-03-01,Resolved,2024-03-22,Admin,Service,Other,21,4.0
+2024-03-14,Resolved,2024-04-13,Sales,Issue,Security,30,5.0
+2024-04-25,Resolved,2024-05-16,Operations,Issue,Other,21,3.0
+2024-03-25,Open,,IT,Issue,Security,399,
+2024-01-23,Resolved,2024-02-09,Operations,Service,Hardware,17,2.0
+2024-08-12,Resolved,2024-09-08,Sales,Service,Hardware,27,3.0
+2024-10-12,Closed,2024-11-01,Operations,Service,Access Rights,20,4.0
+2024-07-29,Resolved,2024-08-28,Sales,Service,Software,30,5.0
+2024-01-24,In Progress,,HR,Issue,Access Rights,460,
+2024-10-17,Cancelled,,Admin,Issue,Network,193,
+2024-05-01,Closed,2024-05-04,HR,Issue,Security,3,4.0
+2024-01-23,Open,,Marketing,Issue,Software,461,
+2024-01-20,Resolved,2024-02-01,Operations,Service,Hardware,12,5.0
+2024-08-14,Resolved,2024-09-03,Sales,Issue,Security,20,2.0
+2024-07-04,Resolved,2024-07-08,Operations,Service,Hardware,4,4.0
+2024-07-14,In Progress,,Finance,Service,Hardware,288,
+2024-12-23,Resolved,2025-01-02,Sales,Service,Hardware,10,5.0
+2024-11-27,Resolved,2024-12-20,IT,Service,Access Rights,23,5.0
+2024-07-25,Resolved,2024-07-30,Admin,Issue,Other,5,4.0
+2024-03-02,Closed,2024-03-24,IT,Service,Security,22,4.0
+2024-01-23,Open,,HR,Issue,Email,461,
+2024-07-16,Resolved,2024-07-24,HR,Issue,Email,8,5.0
+2024-02-01,Open,,Admin,Service,Access Rights,452,
+2024-11-26,Resolved,2024-12-07,Marketing,Service,Security,11,5.0
+2024-03-13,In Progress,,HR,Issue,Email,411,
+2024-01-27,In Progress,,Operations,Service,Security,457,
+2024-08-19,Open,,Sales,Issue,Security,252,
+2024-01-27,In Progress,,IT,Issue,Access Rights,457,
+2024-09-19,Resolved,2024-10-07,Admin,Issue,Email,18,3.0
+2024-11-30,Resolved,2024-12-22,Operations,Service,Hardware,22,5.0
+2024-04-01,Resolved,2024-04-14,Operations,Issue,Other,13,4.0
+2024-06-05,Cancelled,,Marketing,Service,Other,327,
+2024-02-16,In Progress,,Sales,Issue,Network,437,
+2024-12-11,Resolved,2025-01-10,Admin,Issue,Access Rights,30,2.0
+2024-08-09,Resolved,2024-08-12,IT,Service,Hardware,3,5.0
+2024-04-05,Resolved,2024-04-19,HR,Service,Other,14,2.0
+2024-08-12,Closed,2024-08-26,Marketing,Issue,Network,14,2.0
+2024-08-18,Resolved,2024-08-30,IT,Issue,Network,12,3.0
+2024-01-16,Closed,2024-01-21,IT,Issue,Other,5,2.0
+2024-08-28,Closed,2024-09-24,Sales,Issue,Security,27,2.0
+2024-02-01,Resolved,2024-02-02,Admin,Service,Network,1,3.0
+2024-06-11,In Progress,,Admin,Issue,Network,321,
+2024-09-12,In Progress,,Finance,Issue,Network,228,
+2024-08-14,In Progress,,Finance,Issue,Network,257,
+2024-08-07,Closed,2024-08-25,Marketing,Issue,Access Rights,18,1.0
+2024-07-22,Resolved,2024-08-05,IT,Service,Hardware,14,1.0
+2024-05-02,In Progress,,Sales,Issue,Email,361,
+2024-12-29,Resolved,2025-01-15,Admin,Issue,Network,17,4.0
+2024-04-11,Cancelled,,Admin,Service,Software,382,
+2024-03-20,Resolved,2024-03-29,IT,Issue,Hardware,9,5.0
+2024-09-17,Resolved,2024-10-11,Finance,Issue,Email,24,4.0
+2024-10-05,Resolved,2024-10-07,IT,Issue,Email,2,4.0
+2024-05-02,Closed,2024-05-27,Sales,Service,Other,25,4.0
+2024-04-02,Resolved,2024-04-07,Admin,Service,Other,5,2.0
+2024-04-13,Closed,2024-04-20,HR,Service,Hardware,7,1.0
+2024-06-02,Closed,2024-06-19,Admin,Issue,Hardware,17,4.0
+2024-02-20,Resolved,2024-03-16,IT,Issue,Network,25,4.0
+2024-09-17,Resolved,2024-10-08,Finance,Service,Other,21,3.0
+2024-09-07,Resolved,2024-10-01,Operations,Issue,Software,24,4.0
+2024-04-26,Resolved,2024-05-19,Admin,Service,Software,23,4.0
+2024-06-26,Resolved,2024-07-10,Marketing,Service,Security,14,2.0
+2024-05-02,Cancelled,,IT,Service,Access Rights,361,
+2024-12-26,Resolved,2025-01-17,Operations,Service,Hardware,22,3.0
+2024-10-18,Resolved,2024-11-10,Operations,Issue,Email,23,4.0
+2024-12-29,Open,,Operations,Issue,Access Rights,120,
+2024-01-29,In Progress,,Sales,Service,Network,455,
+2024-01-04,Resolved,2024-01-30,HR,Issue,Access Rights,26,5.0
+2024-06-26,Cancelled,,Marketing,Service,Other,306,
+2024-08-29,Resolved,2024-09-03,Admin,Issue,Network,5,2.0
+2024-08-06,Resolved,2024-08-25,HR,Issue,Software,19,1.0
+2024-02-08,Resolved,2024-02-23,Marketing,Issue,Hardware,15,5.0
+2024-01-29,In Progress,,IT,Issue,Software,455,
+2024-07-27,Resolved,2024-07-28,Operations,Service,Network,1,5.0
+2024-03-23,Resolved,2024-04-17,Operations,Service,Hardware,25,3.0
+2024-07-15,In Progress,,Operations,Issue,Security,287,
+2024-04-12,In Progress,,Finance,Service,Other,381,
+2024-02-21,Resolved,2024-03-18,Admin,Issue,Network,26,4.0
+2024-12-28,Cancelled,,Finance,Issue,Security,121,
+2024-05-15,Resolved,2024-06-12,Sales,Issue,Hardware,28,3.0
+2024-12-08,Closed,2024-12-20,Finance,Service,Other,12,4.0
+2024-01-27,Cancelled,,Admin,Service,Email,457,
+2024-12-07,Resolved,2024-12-26,Admin,Issue,Access Rights,19,4.0
+2024-04-04,Cancelled,,Finance,Service,Access Rights,389,
+2024-05-23,Open,,Sales,Issue,Security,340,
+2024-04-20,Resolved,2024-05-04,Finance,Issue,Other,14,5.0
+2024-03-02,In Progress,,Finance,Issue,Security,422,
+2024-06-19,Resolved,2024-07-18,Marketing,Issue,Email,29,5.0
+2024-11-19,Resolved,2024-11-24,Admin,Service,Other,5,4.0
+2024-07-29,Open,,HR,Service,Access Rights,273,
+2024-09-30,Resolved,2024-10-30,IT,Service,Hardware,30,5.0
+2024-04-27,Closed,2024-04-30,Sales,Issue,Other,3,3.0
+2024-08-25,Cancelled,,Sales,Issue,Email,246,
+2024-11-09,Resolved,2024-11-30,Marketing,Service,Access Rights,21,3.0
+2024-09-10,In Progress,,Marketing,Issue,Other,230,
+2024-07-24,Open,,Finance,Service,Network,278,
+2024-01-04,Closed,2024-01-11,Operations,Issue,Security,7,5.0
+2024-09-16,Resolved,2024-10-15,IT,Service,Software,29,4.0
+2024-11-13,Resolved,2024-11-21,Sales,Issue,Software,8,5.0
+2024-08-03,Resolved,2024-08-26,Operations,Issue,Network,23,2.0
+2024-04-26,Resolved,2024-05-07,IT,Issue,Email,11,4.0
+2024-12-27,Closed,2025-01-24,Operations,Issue,Security,28,3.0
+2024-09-14,In Progress,,Marketing,Issue,Access Rights,226,
+2024-02-10,In Progress,,Finance,Service,Software,443,
+2024-12-30,In Progress,,Finance,Service,Email,119,
+2024-12-07,Open,,Marketing,Issue,Other,142,
+2024-02-22,Resolved,2024-03-04,Sales,Service,Other,11,5.0
+2024-04-12,Resolved,2024-04-29,IT,Service,Software,17,4.0
+2024-02-14,Resolved,2024-03-02,HR,Service,Software,17,4.0
+2024-12-11,In Progress,,Finance,Issue,Network,138,
+2024-02-11,In Progress,,Marketing,Issue,Hardware,442,
+2024-10-15,Open,,HR,Service,Software,195,
+2024-08-02,Closed,2024-08-15,Operations,Issue,Other,13,4.0
+2024-03-01,Open,,Marketing,Service,Hardware,423,
+2024-04-15,In Progress,,Operations,Issue,Access Rights,378,
+2024-04-19,Resolved,2024-05-09,Finance,Issue,Other,20,4.0
+2024-08-22,In Progress,,IT,Service,Software,249,
+2024-03-22,Resolved,2024-04-03,HR,Issue,Access Rights,12,5.0
+2024-10-05,Resolved,2024-10-07,HR,Issue,Access Rights,2,1.0
+2024-05-13,Resolved,2024-05-28,Marketing,Issue,Access Rights,15,2.0
+2024-03-20,In Progress,,Operations,Issue,Email,404,
+2024-09-23,Cancelled,,IT,Issue,Access Rights,217,
+2024-09-03,Resolved,2024-09-22,Admin,Issue,Security,19,3.0
+2024-11-27,Open,,Finance,Issue,Security,152,
+2024-04-12,Cancelled,,Sales,Issue,Other,381,
+2024-07-15,Closed,2024-07-31,Sales,Service,Access Rights,16,3.0
+2024-07-08,Resolved,2024-07-10,HR,Service,Security,2,4.0
+2024-04-07,Resolved,2024-05-04,Finance,Issue,Email,27,4.0
+2024-12-17,Resolved,2024-12-18,Operations,Service,Email,1,4.0
+2024-12-18,In Progress,,Marketing,Service,Software,131,
+2024-11-24,Resolved,2024-12-22,Finance,Issue,Other,28,5.0
+2024-01-20,Resolved,2024-01-31,Operations,Service,Access Rights,11,5.0
+2024-02-05,Resolved,2024-02-20,IT,Issue,Email,15,5.0
+2024-09-03,Resolved,2024-09-19,HR,Issue,Access Rights,16,3.0
+2024-06-13,In Progress,,IT,Issue,Email,319,
+2024-11-18,Resolved,2024-12-11,Operations,Service,Security,23,4.0
+2024-04-17,Resolved,2024-04-21,Marketing,Issue,Hardware,4,4.0
+2024-01-18,Resolved,2024-01-30,Admin,Issue,Other,12,5.0
+2024-01-02,In Progress,,Sales,Service,Hardware,482,
+2024-05-09,Open,,IT,Issue,Security,354,
+2024-10-26,Resolved,2024-11-22,Marketing,Service,Email,27,4.0
+2024-02-20,Resolved,2024-03-11,HR,Service,Network,20,5.0
+2024-09-04,In Progress,,HR,Service,Security,236,
+2024-04-11,Open,,Sales,Issue,Hardware,382,
+2024-03-03,Resolved,2024-03-21,HR,Service,Network,18,5.0
+2024-10-14,Resolved,2024-11-04,IT,Issue,Software,21,3.0
+2024-06-20,Resolved,2024-06-23,HR,Service,Other,3,4.0
+2024-08-02,Resolved,2024-08-16,HR,Service,Email,14,5.0
+2024-10-01,Closed,2024-10-14,HR,Service,Other,13,5.0
+2024-06-15,Closed,2024-06-16,Marketing,Issue,Network,1,3.0
+2024-08-05,In Progress,,Operations,Issue,Hardware,266,
+2024-01-04,Cancelled,,Admin,Issue,Email,480,
+2024-02-13,Resolved,2024-03-10,HR,Issue,Email,26,2.0
+2024-01-30,Resolved,2024-02-05,IT,Issue,Security,6,1.0
+2024-12-08,Resolved,2024-12-28,Operations,Service,Email,20,5.0
+2024-09-25,Closed,2024-10-08,HR,Issue,Network,13,4.0
+2024-12-17,Cancelled,,HR,Issue,Hardware,132,
+2024-02-27,Open,,Operations,Issue,Email,426,
+2024-07-30,Resolved,2024-08-18,Finance,Issue,Hardware,19,5.0
+2024-01-14,In Progress,,HR,Issue,Security,470,
+2024-11-20,Open,,IT,Service,Software,159,
+2024-05-23,In Progress,,Finance,Issue,Security,340,
+2024-08-14,Resolved,2024-09-03,HR,Issue,Hardware,20,3.0
+2024-08-02,Resolved,2024-08-22,Sales,Issue,Security,20,4.0
+2024-02-27,Resolved,2024-03-16,Admin,Issue,Other,18,5.0
+2024-06-15,In Progress,,Admin,Service,Security,317,
+2024-02-19,Resolved,2024-03-05,IT,Service,Access Rights,15,4.0
+2024-01-17,Open,,Admin,Service,Network,467,
+2024-04-29,Resolved,2024-05-17,IT,Service,Access Rights,18,2.0
+2024-05-21,Closed,2024-06-12,Marketing,Issue,Network,22,3.0
+2024-12-15,Resolved,2024-12-17,Marketing,Issue,Other,2,4.0
+2024-12-28,Resolved,2025-01-12,IT,Service,Access Rights,15,4.0
+2024-11-05,Resolved,2024-12-02,HR,Issue,Hardware,27,1.0
+2024-11-30,Resolved,2024-12-12,Marketing,Service,Software,12,5.0
+2024-01-16,Cancelled,,Finance,Service,Software,468,
+2024-12-15,In Progress,,HR,Service,Other,134,
+2024-05-18,Resolved,2024-06-16,Admin,Issue,Hardware,29,4.0
+2024-03-22,Closed,2024-03-25,Sales,Issue,Software,3,4.0
+2024-09-21,Closed,2024-10-19,HR,Service,Security,28,3.0
+2024-04-06,Cancelled,,HR,Issue,Access Rights,387,
+2024-09-16,Resolved,2024-09-17,IT,Service,Other,1,5.0
+2024-02-09,Resolved,2024-02-22,HR,Issue,Access Rights,13,5.0
+2024-05-17,Resolved,2024-05-24,Sales,Service,Hardware,7,5.0
+2024-10-29,Resolved,2024-11-20,Admin,Service,Other,22,4.0
+2024-08-05,Closed,2024-08-12,Marketing,Service,Email,7,2.0
+2024-12-09,Open,,Sales,Service,Email,140,
+2024-12-05,Open,,Marketing,Issue,Email,144,
+2024-06-06,In Progress,,Marketing,Service,Email,326,
+2024-08-29,Cancelled,,Sales,Service,Other,242,
+2024-10-18,Resolved,2024-10-28,Sales,Issue,Email,10,5.0
+2024-03-01,Resolved,2024-03-10,Marketing,Issue,Hardware,9,2.0
+2024-12-25,Closed,2025-01-16,Operations,Service,Security,22,4.0
